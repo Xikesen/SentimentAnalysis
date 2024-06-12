@@ -1,0 +1,4 @@
+Keras==2.15.0
+gensim==4.3.2
+jieba==0.42.1
+sklearn==1.4.2
